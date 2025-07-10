@@ -29,9 +29,9 @@ It was completed as part of my **Generative AI Internship at Prodigy InfoTech**.
 ---
 
 ## 📂 Files
-- `Markov_chains.ipynb` – Markov Chain text generator  
-- `Sample_Text.txt` – Training dataset (*Shakespeare’s Hamlet*)  
-- `README.md` – This documentation  
+- [Markov_chains.ipynb](./Markov_chains.ipynb) – Markov Chain text generator  
+- [Sample_Text.txt](./Sample_Text.txt) – Training dataset (*Shakespeare’s Hamlet*)  
+- [README.md](./README.md) – This documentation 
 
 ---
 
